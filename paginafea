@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>más fea del mundo</title>
+</head>
+<body>
+<!-- Start your code here -->
+
+<p>Bienvenido a la página más fea del mundo</p>
+  <a href="https://ibb.co/d7dJfXg"><img src="https://i.ibb.co/CWksw42/servilleta.png" alt="servilleta" border="0"></a>
+ <h1>
+<a href="https://yvettesbridalformal.p1r8.net/">Visita Yvettes para los mejores vestidos de novia, tan bellos como mi servilleta</a>
+  </h1>
+  
+    <img src="https://stickershop.line-scdn.net/stickershop/v1/product/4523095/LINEStorePC/main.png;compress=true"</a>
+  
+ <p>  Razones por las que mi servilleta es la mejor:</p>
+  <u1>
+	<li> Es suave </li>
+    <li> Está limpia </li>
+    <li> Me cuida </li>
+  </u1>
+  
+ 
+ <h2> ¿Crees que la tuya es mejor?</h2> 
+ <form action="/action_page.php">
+	<label for="razon">Razón:</label><br>
+  <input type="text" placeholder="POR QUÉ???"/>
+  <button type="submit">Enviar</button>
+  </form>
+  
+
+<!-- End your code here -->
+</body>
+</html>
